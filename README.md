@@ -9,7 +9,7 @@ Usage:
 ```
   avg-calc <value> <value> ...
 ```
-<br><br>
+<br>
 Compilation instructions:
 ```
   gcc avg-calc.c -lm
