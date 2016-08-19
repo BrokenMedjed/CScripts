@@ -12,5 +12,5 @@ Usage:
 <br>
 Compilation instructions:
 ```
-  gcc avg-calc.c -lm
+  gcc avg-calc.c
 ```
