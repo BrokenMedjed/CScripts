@@ -7,10 +7,10 @@ A thing that calculates averages. Yay.
 <br>
 Usage:
 ```
-  avg-calc <value> <value> ...
+avg-calc <value> <value> ...
 ```
 <br>
 Compilation instructions:
 ```
-  gcc avg-calc.c
+gcc avg-calc.c
 ```
