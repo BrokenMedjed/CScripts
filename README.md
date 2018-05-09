@@ -11,6 +11,3 @@ avg-calc <value> <value> ...
 ```
 <br>
 Compilation instructions:
-```
-gcc avg-calc.c
-```
