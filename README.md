@@ -11,3 +11,6 @@ avg-calc <value> <value> ...
 ```
 <br>
 Compilation instructions:
+```
+gcc -std=gnu11 -Wall avg-calc.c
+```
