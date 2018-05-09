@@ -14,3 +14,4 @@ Compilation instructions:
 ```
 gcc -std=gnu11 -Wall avg-calc.c
 ```
+stuff
